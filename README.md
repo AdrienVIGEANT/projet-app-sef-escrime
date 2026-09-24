@@ -46,5 +46,5 @@ Les règles de travail (branches, commits, Pull Requests, relectures) sont déta
 | Malone PWONO | 
 | Léa LACROIX | 
 
-##Autre
+### Autre
 Ne pas déployer le site en root  sur les VM
