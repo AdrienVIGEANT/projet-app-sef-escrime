@@ -17,7 +17,7 @@ Projet réalisé dans le cadre du BTS SIO (option SLAM, 2ᵉ année) avec Monsie
 
 - PHP
 - JavaScript
-- Symfony 7.1
+- Symfony 8.0
 - Base de données : MySQL
 - Git / GitHub
 
